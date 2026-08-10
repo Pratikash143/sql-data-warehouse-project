@@ -74,7 +74,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **Pratik**. I'm an IT professional with 2.5 years of experience in automation and currently switching to data engineering!
+Hi there! I'm **Pratik**. I'm an automation engineer with 2.5 years of experience and currently switching to data engineering!
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
